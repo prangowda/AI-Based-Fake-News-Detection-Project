@@ -1,10 +1,3 @@
-Here is the **README.md** file for your **AI-Based Fake News Detection** project.
-
----
-
-## **README.md**  
-
-```md
 # 📰 AI-Based Fake News Detection  
 
 ## 📌 Overview  
